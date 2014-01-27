@@ -7,7 +7,7 @@ use vars qw($VERSION @ISA @EXPORT_OK);
 require Exporter;
 @ISA = qw(Exporter);
 
-$VERSION = do { my @r = (q$Revision: 0.04 $ =~ /\d+/g); sprintf "%d."."%02d" x $#r, @r };
+$VERSION = do { my @r = (q$Revision: 0.05 $ =~ /\d+/g); sprintf "%d."."%02d" x $#r, @r };
 
 @EXPORT_OK = qw(
 	embedded
@@ -227,7 +227,7 @@ Michael Robinton, michael@bizsystems.com
 
 =head1 COPYRIGHT
 
-Copyright 2013, Michael Robinton & BizSystems
+Copyright 2013-2014, Michael Robinton & BizSystems
 This program is free software; you can redistribute it and/or modify
 it under the same terms of the Apache Software License, a copy of which is
 included in this distribution.
