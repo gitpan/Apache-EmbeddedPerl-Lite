@@ -1,5 +1,8 @@
 Revision history for Perl extension Apache::EmbeddedPerl::Lite
 
+0.06  Mon Jan 27 20:50:13 PST 2014
+	correct corrupted test scripts
+
 0.05  Mon Jan 27 12:47:58 PST 2014
 	correct typo in Makefile.pm
 

@@ -73,7 +73,7 @@ no closing '-->'
 	$exp = '<!DOCTYPE html>
 <html>
 <body>
-This file contains perl that will no compile.
+This file contains perl that will not compile.
 
 ';
 	print "got:\n$printout\nexp:\n$exp\nnot "

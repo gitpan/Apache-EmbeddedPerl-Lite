@@ -75,7 +75,7 @@ Global symbol "$ref" requires explicit package name at (eval 1) line 7, <F> line
 	$exp = '<!DOCTYPE html>
 <html>
 <body>
-This file contains perl that will no compile.
+This file contains perl that will not compile.
 
 ';
 	print "got:\n$printout\nexp:\n$exp\nnot "
